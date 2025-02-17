@@ -1,0 +1,77 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  --font-one: "Monoton", serif;
+  
+}
+
+.main{
+  border: solid 1px red;
+  background: linear-gradient(#742E22, #E55710,#742E22) 
+  /* background-color: navy; */
+}
+
+.jimi-pic{
+  opacity: .5;
+  filter: grayscale(1);
+}
+
+.title, 
+.featuring,
+.kenny,
+.mark,
+.john,
+.todd,
+.date,
+.time,
+.venue,
+.cover{
+  font-family: var(--font-one);
+  font-weight: 400;
+  color: #FDD753;
+  position: relative;
+  z-index: 1;
+  text-shadow: 10px 10px 1px #903305ef;
+}
+
+
+.shape-one,
+.shape-two,
+.shape-three,
+.shape-four,
+.shape-five{
+  background-color: #FDD753;
+  opacity: .2;
+}
+
+.shape-one{
+  top: 50px;
+  left: 50px;
+  transform: skew(20deg);
+}
+
+.shape-two{
+  top: 250px;
+  left: 250px;
+  transform: skew(-20deg);
+}
+
+.shape-three{
+  top: 150px;
+  left: 950px;
+  transform: skew(-10deg);
+}
+
+.shape-four{
+  top: 750px;
+  left: 150px;
+  
+}
+
+.shape-five{
+  top: 550px;
+  left: 950px;
+  transform: skew(50deg);
+}
