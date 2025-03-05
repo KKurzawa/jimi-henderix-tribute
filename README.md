@@ -5,7 +5,7 @@
 A Facebook event poster made with React, Tailwind, and CSS.
 
 
-![screenshot1](https://github.com/KKurzawa/houses-of-the-holy/blob/main/public/Feb8.png)
+![screenshot1](https://github.com/KKurzawa/jimi-henderix-tribute/blob/main/public/March22Jimi.png)
 
 [Github Repository](https://github.com/KKurzawa/jimi-henderix-tribute)
 
